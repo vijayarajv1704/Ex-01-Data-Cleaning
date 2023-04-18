@@ -55,12 +55,19 @@ df.isnull().sum()
 
 # OUPUT
 ![image](https://user-images.githubusercontent.com/121303741/228143951-f0c42ff6-3b43-4636-971a-47dad9865c9f.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144282-84e2d116-0804-4233-8328-6bb1d3e66d74.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144260-cc386d8b-142a-4204-8e84-d910731fd16a.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144321-622f11f3-a007-4281-86ea-cb227e14e16d.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144354-24586f56-cb7c-49b0-a3d7-510a76027810.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144388-05cefdb3-2180-4ed9-a812-aa941440c308.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144404-2a349635-b386-4740-b661-fbec853b7f8f.png)
+
 ![image](https://user-images.githubusercontent.com/121303741/228144435-ec9cd634-8112-452f-a345-670bddf5efe6.png)
 
 ##Result
